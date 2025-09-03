@@ -1,5 +1,5 @@
-From Stdlib Require Export ssreflect.
-From Stdlib Require Export Program.Equality.
+From Coq Require Export ssreflect.
+From Coq Require Export Program.Equality.
 Require Export common.fintype.
 Require Export common.relations.
 Require Export stlc.syntax.
